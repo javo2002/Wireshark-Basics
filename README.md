@@ -31,9 +31,3 @@ The exercises were performed in a controlled lab network provided by **Cyrin Lab
 - `analysis_scripts/`: Scripts to assist in traffic and protocol analysis.
 - `screenshots/`: Visuals to aid in understanding observed behaviors.
 - `notes/`: Detailed notes on methodologies and observations.
-
-## How to Use This Repository
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your_username/network-traffic-analysis-lab.git
-   cd network-traffic-analysis-lab
