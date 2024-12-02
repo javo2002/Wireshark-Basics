@@ -6,7 +6,7 @@ This repository contains materials and exercises for analyzing network traffic u
 
 Below is the **logical architecture diagram** for the project, showcasing how customer data flows through the system and is processed by the database and Splunk for analysis.
 
-![Logical Architecture Diagram](./photos/network.png)
+![Logical Architecture Diagram](./images/network.png)
 
 ## Objectives
 - **Explore TCP Sessions**: Analyze TCP sessions, including the 3-way handshake.
