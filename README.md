@@ -2,6 +2,12 @@
 
 This repository contains materials and exercises for analyzing network traffic using Wireshark and nmap. The exercises are based on a lab environment provided by Cyrin Labs and focus on TCP/IP fundamentals, protocol behavior, and attack methodologies. The repository is structured to aid in learning the basics of network protocol analysis and performing basic network scans.
 
+## Project Architecture Diagram
+
+Below is the **logical architecture diagram** for the project, showcasing how customer data flows through the system and is processed by the database and Splunk for analysis.
+
+![Logical Architecture Diagram](./photos/network.png)
+
 ## Objectives
 - **Explore TCP Sessions**: Analyze TCP sessions, including the 3-way handshake.
 - **Investigate Attack Behavior**: Use Wireshark to observe ARP requests, ICMP traffic, and HTTP interactions.
